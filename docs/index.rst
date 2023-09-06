@@ -21,11 +21,3 @@ Profile overview
 * `EOSC Service Profile <https://eosc-service-profile.readthedocs.io/>`_
 * `EOSC Training Profile <https://eosc-service-profile.readthedocs.io/>`_
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
