@@ -96,50 +96,50 @@ html_js_files = [
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'EOSCprofiles'
 
-# -- Options for LaTeX output ---------------------------------------------
+## -- Options for LaTeX output ---------------------------------------------
+#
+#latex_elements = {
+## The paper size ('letterpaper' or 'a4paper').
+#'papersize': 'a4paper',
+#
+## The font size ('10pt', '11pt' or '12pt').
+#'pointsize': '11pt',
+#
+## Additional stuff for the LaTeX preamble.
+##'preamble': '',
+#}
 
-latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-'papersize': 'a4paper',
+## Grouping the document tree into LaTeX files. List of tuples
+## (source start file, target name, title,
+##  author, documentclass [howto, manual, or own class]).
+#latex_documents = [
+#  ('index', 'EOSCprofiles.tex', u'EOSC profiles',
+#   u'European Open Science Cloud', 'manual'),
+#]
 
-# The font size ('10pt', '11pt' or '12pt').
-'pointsize': '11pt',
-
-# Additional stuff for the LaTeX preamble.
-#'preamble': '',
-}
-
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title,
-#  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-  ('index', 'EOSCprofiles.tex', u'EOSC profiles',
-   u'European Open Science Cloud', 'manual'),
-]
-
-# -- Options for Texinfo output -------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'EOSCprofiles', u'EOSC Profile',
-   u'EOSC', 'EOSCprofiles', 'One line description of project.',
-   'Miscellaneous'),
-]
-
-# Documents to append as an appendix to all manuals.
-#texinfo_appendices = []
-
-# If false, no module index is generated.
-#texinfo_domain_indices = True
-
-# How to display URL addresses: 'footnote', 'no', or 'inline'.
-#texinfo_show_urls = 'footnote'
-
-# If true, do not generate a @detailmenu in the "Top" node's menu.
-#texinfo_no_detailmenu = False
-
-
-# Example configuration for intersphinx: refer to the Python standard library.
+## -- Options for Texinfo output -------------------------------------------
+#
+## Grouping the document tree into Texinfo files. List of tuples
+## (source start file, target name, title, author,
+##  dir menu entry, description, category)
+#texinfo_documents = [
+#  ('index', 'EOSCprofiles', u'EOSC Profile',
+#   u'EOSC', 'EOSCprofiles', 'One line description of project.',
+#   'Miscellaneous'),
+#]
+#
+## Documents to append as an appendix to all manuals.
+##texinfo_appendices = []
+#
+## If false, no module index is generated.
+##texinfo_domain_indices = True
+#
+## How to display URL addresses: 'footnote', 'no', or 'inline'.
+##texinfo_show_urls = 'footnote'
+#
+## If true, do not generate a @detailmenu in the "Top" node's menu.
+##texinfo_no_detailmenu = False
+#
+#
+## Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}
