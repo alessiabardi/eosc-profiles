@@ -5,3 +5,10 @@ One of the major challenges that the EOSC aims to address is the historical lack
 
 EOSC Profiles are specifications that define common data models for EOSC entities (Providers, Resources, etc.) and related Code Lists, Taxonomies and Classifications. They contribute to the unified framework for describing and offering EOSC Resources to end-users in a harmonized way, guaranteeing the interoperability of resources metadata with open APIs. They allow automated exchange and management of the EOSC resource information and their accompanying data without human intervention (e.g., harvesting, etc.).
 
+Profile overview
+================
+
+* `EOSC Multi-Provider Catalogue Profile <https://eosc-catalogue-profile.readthedocs.io/>`_
+* `EOSC Provider Profile <https://eosc-provider-profile.readthedocs.io/>`_
+* `EOSC Service Profile <https://eosc-service-profile.readthedocs.io/>`_
+* `EOSC Training Profile <https://eosc-service-profile.readthedocs.io/>`_
