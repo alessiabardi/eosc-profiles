@@ -6,13 +6,6 @@
 Welcome to EOSC - PROFILE documentation
 =======================================
 
-.. toctree::
-   :caption: Table of Contents
-   :maxdepth: 1
-
-   introduction
-   `EOSC Multi-Provider Catalogue Profile <https://eosc-catalogue-profile.readthedocs.io/>`_
-
 Introduction
 ------------
 
