@@ -16,7 +16,7 @@ EOSC Profiles are specifications that define common data models for EOSC entitie
 Profile overview
 ================
 
-* `EOSC Interoperability Guideline Profile <https://eosc-interoperability-guideline-profile.readthedocs.io/>`_
+* `EOSC Interoperability Guideline Profile <https://eosc-interoperability-profile.readthedocs.io/>`_
 * `EOSC Multi-Provider Catalogue Profile <https://eosc-catalogue-profile.readthedocs.io/>`_
 * `EOSC Provider Profile <https://eosc-provider-profile.readthedocs.io/>`_
 * `EOSC Service Profile <https://eosc-service-profile.readthedocs.io/>`_
