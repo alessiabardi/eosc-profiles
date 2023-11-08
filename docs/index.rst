@@ -22,4 +22,4 @@ Profile overview
 * `EOSC Service Profile <https://eosc-service-profile.readthedocs.io/>`_
 * `EOSC Training Profile <https://eosc-training-profile.readthedocs.io/>`_
 
-Link to Human Readable Version of this Page (ReadtheDocs): <ddddd>
+Link to Human Readable Version of this Page (ReadtheDocs): <https://eosc-profiles.readthedocs.io/en/latest/>
