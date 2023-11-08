@@ -21,3 +21,5 @@ Profile overview
 * `EOSC Provider Profile <https://eosc-provider-profile.readthedocs.io/>`_
 * `EOSC Service Profile <https://eosc-service-profile.readthedocs.io/>`_
 * `EOSC Training Profile <https://eosc-training-profile.readthedocs.io/>`_
+
+Link to Human Readable Version of this Page (ReadtheDocs): <ddddd>
